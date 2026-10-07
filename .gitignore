@@ -1,0 +1,9 @@
+# Локальная БД и окружение не попадают в репозиторий.
+data/
+*.sqlite3
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
